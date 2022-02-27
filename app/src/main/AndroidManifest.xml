@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.edgetechs.unihelp">
+<permission android:name="uses-permission android:name=”android.permission.INTERNET"/>
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logo"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/logo"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.UniHelp">
+        <activity android:name=".Student.ApplyActivity"></activity>
+        <activity android:name=".Admin.AdminActivity" />
+        <activity android:name=".common.confirmation2" />
+        <activity android:name=".common.Otp" />
+        <activity android:name=".common.StudentSign" />
+        <activity android:name=".Student.Student_Activity" />
+        <activity android:name=".common.studentLogin" />
+        <activity android:name=".common.AdminLogin" />
+        <activity android:name=".common.MainActivity" />
+        <activity android:name=".common.Asking" />
+        <activity android:name=".common.SplashActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

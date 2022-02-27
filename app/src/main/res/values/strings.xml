@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">UniHelp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+    <string name="you_will_shortly_receive_an_otp_at_your_registered_mobile_number_enter_it_below_to_complete_the_verification">You will shortly receive an OTP at your registered mobile number.Enter it below to complete the verification</string>
+    <string name="verify">VERIFY</string>
+
+    <string-array name="SchemeTypes">
+        <item>Job Vacancy</item>
+        <item>Government Schemes</item>
+        <item>Scholarships</item>
+        <item>Training Schemes</item>
+        <item>Fellowship</item>
+        <item>Venture Capitalist</item>
+    </string-array>
+</resources>

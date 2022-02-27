@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "133529869768",
+    "project_id": "unihelp-14c1f",
+    "storage_bucket": "unihelp-14c1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133529869768:android:c1a1dd58b75f722bf3f4fd",
+        "android_client_info": {
+          "package_name": "com.edgetechs.unihelp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133529869768-ves9ha0i2rr71t0ktj0f1pm5ic8i3tab.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.edgetechs.unihelp",
+            "certificate_hash": "b238bd732066add8a4e1f2a547c48a66d77a7341"
+          }
+        },
+        {
+          "client_id": "133529869768-a50sdoh0f7p8us2ibkvrloccja0ee074.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhbcwnl7w-2OdzkvGJ50eMFDsXbCdnYMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133529869768-a50sdoh0f7p8us2ibkvrloccja0ee074.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
